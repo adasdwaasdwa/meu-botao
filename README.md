@@ -31,7 +31,7 @@
     botao.addEventListener('click', () => {
       botao.classList.add('animar');
       setTimeout(() => {
-        window.location.href = 'https://google.com'; // Troca pelo seu link
+        window.location.href = 'https://variares-hyperlink-9jmo2y.vercel.app/'; // Troca pelo seu link
       }, 300);
     });
   </script>
